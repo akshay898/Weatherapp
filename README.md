@@ -1,5 +1,5 @@
 # Weatherapp
- - SW Arch assignment 2 question 3
+
 
 # Instructions and Source
 - This is a simple weather app and api is from https://openweathermap.org/ 
